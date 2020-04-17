@@ -1,1 +1,1 @@
-ip name-server vrf default 192.168.1.1
+ip name-server vrf default 10.1.1.10
